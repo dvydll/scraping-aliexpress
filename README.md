@@ -49,7 +49,7 @@ node index.js https://es.aliexpress.com/item/1005007912969099.html?srcSns=...
 
 Esto generará un archivo JSON con la información del producto extraído.
 
-```bash
+```json
 {
   "https://es.aliexpress.com/item/1005007912969099.html?srcSns=...": {
     "Uso recomendado": "Aprendizaje,USO COMERCIAL,Entretenimiento diario",
