@@ -1,0 +1,17 @@
+{
+	"name": "scraping-aliexpress",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js >> out/results.json",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"playwright": "^1.48.2"
+	}
+}
